@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, Crew Techventure</h1>
 <h3 align="center">Empowering Your Business with Smart IT Solutions</h3>
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techventurecrew&label=Profile%20views&color=0e75b6&style=flat" alt="techventurecrew" /> </p>
 
-- 👯 I’m looking to collaborate on [Oneness Solar Power](https://onenesssolarpower.com/)
+- 🔭 My last working project [Oneness Solar Power](https://onenesssolarpower.com/)
 
 - 📫 How to reach me **Crewtechventure@gmail.com**
 
